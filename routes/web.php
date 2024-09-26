@@ -40,7 +40,10 @@ Route::middleware('auth')->group(function () {
     // Define todo routes here
 
     Route::resource('todos',ToDoController::class);
-    
+
+
+    Route::get('unresolved',[ToDoController::class,'unresolved'])->name('unresolved');
+
 
 
     // Define todo category routes here

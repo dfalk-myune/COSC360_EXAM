@@ -8,13 +8,26 @@ use Illuminate\Support\Facades\Auth;
 
 class ToDoController extends Controller
 {
+
+
+
+
     /**
      * Display a listing of the resource.
      */
     public function index()
     {
-        $todos = ToDo::where('user_id',Auth::id())->get();
-        return view('todos.index',compact('todos'));
+
+            $todos = ToDo::where('user_id', Auth::id())->get();
+        
+
+        return view('todos.index', compact('todos'));
+    }
+
+    public function unresolved()
+    {
+        $todos = ToDo::where('user_id',Auth::id())->where('status',['Pending','Processing'])->orderBy('deadline','asc')->get();
+        return view('todos.unresolved',compact('todos'));
     }
 
     /**

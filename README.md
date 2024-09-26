@@ -3,7 +3,9 @@
 # COSC360_EXAM
 
 
-RUN:
+
+
+# RUN:
 
 Please note the name of the database is une_accounts_app.
 
@@ -31,4 +33,7 @@ All routes are under middleware, and users can only access matching user_ids
 in the database.
 
 Full CRUD functionality has been tested.
- 
+
+# Github
+
+https://github.com/dfalk-myune/COSC360_EXAM

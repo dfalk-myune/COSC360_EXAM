@@ -1,8 +1,10 @@
 <?php
 
+use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\ToDoController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\ProfileController;
-use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
@@ -37,7 +39,8 @@ Route::middleware('auth')->group(function () {
 
     // Define todo routes here
 
-
+    Route::resource('todos',ToDoController::class);
+    
 
 
     // Define todo category routes here

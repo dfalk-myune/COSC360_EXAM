@@ -10,9 +10,13 @@ class ToDo extends Model
 {
     use HasFactory;
 
+    
+
     protected $fillable = [
         'title', 'description', 'deadline', 'status', 'user_id'
     ];
+
+    protected $table = 'todos';
 
     public function user() : BelongsTo
     {

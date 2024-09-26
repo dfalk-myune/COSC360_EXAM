@@ -502,3 +502,75 @@
 #36 C:\\laragon\\www\\UNE-todo-final-exam\\artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
 #37 {main}
 "} 
+[2024-09-26 06:52:10] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php:636)
+[stacktrace]
+#0 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(685): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(258): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/djf/laravelProjects/UNE-final-exam-sample_2/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2024-09-26 06:52:10] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php:636)
+[stacktrace]
+#0 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(685): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(258): Symfony\\Component\\Console\\Application->find('ide-helper:mode...')
+#2 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/djf/laravelProjects/UNE-final-exam-sample_2/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2024-09-26 06:54:45] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php:636)
+[stacktrace]
+#0 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(685): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(258): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/djf/laravelProjects/UNE-final-exam-sample_2/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2024-09-26 06:54:45] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php:636)
+[stacktrace]
+#0 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(685): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(258): Symfony\\Component\\Console\\Application->find('ide-helper:mode...')
+#2 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/djf/laravelProjects/UNE-final-exam-sample_2/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2024-09-26 06:55:17] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php:636)
+[stacktrace]
+#0 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(685): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(258): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/djf/laravelProjects/UNE-final-exam-sample_2/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2024-09-26 06:55:17] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php:636)
+[stacktrace]
+#0 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(685): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(258): Symfony\\Component\\Console\\Application->find('ide-helper:mode...')
+#2 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/djf/laravelProjects/UNE-final-exam-sample_2/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2024-09-26 06:55:20] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php:636)
+[stacktrace]
+#0 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(685): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(258): Symfony\\Component\\Console\\Application->find('ide-helper:gene...')
+#2 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/djf/laravelProjects/UNE-final-exam-sample_2/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
+[2024-09-26 06:55:20] local.ERROR: There are no commands defined in the "ide-helper" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"ide-helper\" namespace. at /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php:636)
+[stacktrace]
+#0 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(685): Symfony\\Component\\Console\\Application->findNamespace('ide-helper')
+#1 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(258): Symfony\\Component\\Console\\Application->find('ide-helper:mode...')
+#2 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/symfony/console/Application.php(167): Symfony\\Component\\Console\\Application->doRun(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#3 /Users/djf/laravelProjects/UNE-final-exam-sample_2/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(196): Symfony\\Component\\Console\\Application->run(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#4 /Users/djf/laravelProjects/UNE-final-exam-sample_2/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle(Object(Symfony\\Component\\Console\\Input\\ArgvInput), Object(Symfony\\Component\\Console\\Output\\ConsoleOutput))
+#5 {main}
+"} 
